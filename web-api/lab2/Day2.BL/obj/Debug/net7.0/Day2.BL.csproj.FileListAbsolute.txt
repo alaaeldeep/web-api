@@ -1,0 +1,30 @@
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\bin\Debug\net7.0\Day2.BL.deps.json
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\bin\Debug\net7.0\Day2.BL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\bin\Debug\net7.0\Day2.BL.pdb
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\bin\Debug\net7.0\Day2.DAL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\bin\Debug\net7.0\Day2.DAL.pdb
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.AssemblyReference.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfoInputs.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfo.cs
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CoreCompileInputs.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CopyComplete
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\refint\Day2.BL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\Day2.BL.pdb
+D:\iti\web api\day2\lab 2\Day2\Day2.BL\obj\Debug\net7.0\ref\Day2.BL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\bin\Debug\net7.0\Day2.BL.deps.json
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\bin\Debug\net7.0\Day2.BL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\bin\Debug\net7.0\Day2.BL.pdb
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\bin\Debug\net7.0\Day2.DAL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\bin\Debug\net7.0\Day2.DAL.pdb
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.AssemblyReference.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfoInputs.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfo.cs
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CoreCompileInputs.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CopyComplete
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\refint\Day2.BL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\Day2.BL.pdb
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.BL\obj\Debug\net7.0\ref\Day2.BL.dll

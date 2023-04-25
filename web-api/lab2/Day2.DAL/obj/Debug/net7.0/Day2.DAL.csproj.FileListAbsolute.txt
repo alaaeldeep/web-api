@@ -1,0 +1,28 @@
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.deps.json
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.runtimeconfig.json
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.pdb
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.AssemblyReference.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfoInputs.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfo.cs
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.CoreCompileInputs.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\refint\Day2.DAL.dll
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.pdb
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.genruntimeconfig.cache
+D:\iti\web api\day2\lab 2\Day2\Day2.DAL\obj\Debug\net7.0\ref\Day2.DAL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.deps.json
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.runtimeconfig.json
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\bin\Debug\net7.0\Day2.DAL.pdb
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.AssemblyReference.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfoInputs.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.AssemblyInfo.cs
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\refint\Day2.DAL.dll
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.pdb
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\Day2.DAL.genruntimeconfig.cache
+C:\Users\alaa\Desktop\web-Api-main\web-Api-main\lab 2\Day2.DAL\obj\Debug\net7.0\ref\Day2.DAL.dll
